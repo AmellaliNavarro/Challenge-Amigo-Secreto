@@ -5,10 +5,10 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 <h2>Descripción</h2>
 El objetivo del proyecto es mejorar habilidades y conocimiento es lógica de programación y diseño web.
 
-<h3>Funcionalidad</h3>
+<h2>Funcionalidad</h2>
 Los usuarios eligen los nombres de los participantes del sorteo, asi mismo pueden eliminar a un participante. 
 El sorteo se realiza uno al azar, y muestra el nombre el amigo secreto. 
 Se puede reiniciar el juego para comenzar de nuevo.
 
-<h4>Autor del proyecto</h4>
+<h2>Autor del proyecto</h2>
 Navarro Ramirez Jaceklin Amellali
